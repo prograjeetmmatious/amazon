@@ -1,0 +1,398 @@
+.container-div{
+    background-color:none;
+    width: 1300px;
+    height: 3500px;
+    margin-left:20px ;
+
+}
+ 
+ .t2{
+    height: 380px;
+    width: 1300px;
+    margin-bottom: 20px;
+    display: grid;
+  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    /* border: 10px solid white;  */
+    grid-gap: 20px;
+    grid-row-gap: 10px;
+
+} 
+ .t3{
+    height: 380px;
+    width: 1300px;
+    margin-bottom: 20px;
+    display: grid;
+  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    /* border: 10px solid white;  */
+    grid-gap: 20px;
+    grid-row-gap: 10px;
+
+} 
+ .t4{
+    height: 380px;
+    width: 1300px;
+    margin-bottom: 20px;
+    display: grid;
+  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    /* border: 10px solid white;  */
+    grid-gap: 20px;
+    grid-row-gap: 10px;
+
+} 
+ .t5{
+    height: 380px;
+    width: 1300px;
+    margin-bottom: 10px;
+    display: grid;
+  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    /* border: 10px solid white;  */
+    grid-gap: 20px;
+    grid-row-gap: 10px;
+
+} 
+.t1{
+    height: 380px;
+    width: 1300px;
+    margin-bottom: 20px;
+    display: grid;
+  
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    /* border: 10px solid white;  */
+    grid-gap: 20px;
+    grid-row-gap: 10px;
+
+
+   
+}
+.item{
+/* background-image: url("C:\Users\Ayush\Downloads\my code\practice\amazon\frontend\Screenshot_6-2-2025_202612_www.amazon.in.jpeg"); */
+    /* background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/vastu-tips-electronic-1583902426-1583904794.jpg"); */
+background-size: 312px 360px;
+
+background-repeat: no-repeat;
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+
+
+}
+.ajeet{
+/* background-color: blue; */background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/vastu-tips-electronic-1583902426-1583904794.jpg");
+background-size: 315px 360px;
+padding-top: 340px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: rgb(18, 1, 250);
+    font-weight: 500;
+}
+
+
+.aman{
+    /* background-color: blue; */background-image: url("https://pricesite-files.s3.amazonaws.com/CACHE/images/product%20images/Cellphone/OPPO/Oppo%20A18%20Dual%20SIM%20(Blue)/Oppo_A18_Blue/03ab9dc7761456fe4e8df3f675c2eeee.webp");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+.ayush{
+/* background-color: blue; */background-image: url("https://images.thdstatic.com/productImages/e9e16ee8-86d4-4fb0-81d7-605e8f235397/svn/gold-oukaning-wall-sconces-jzuc34-00290099-64_300.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.ashish{
+/* background-color: blue; */background-image: url("https://images.hindustantimes.com/tech/img/2023/08/23/original/kcgh_1692782623800.png");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.ajeet{
+/* background-color: blue; */background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/03/vastu-tips-electronic-1583902426-1583904794.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: rgb(18, 1, 250);
+    font-weight: 500;
+}
+
+
+.aman{
+    /* background-color: blue; */background-image: url("https://pricesite-files.s3.amazonaws.com/CACHE/images/product%20images/Cellphone/OPPO/Oppo%20A18%20Dual%20SIM%20(Blue)/Oppo_A18_Blue/03ab9dc7761456fe4e8df3f675c2eeee.webp");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+.ayush{
+/* background-color: blue; */background-image: url("https://images.thdstatic.com/productImages/e9e16ee8-86d4-4fb0-81d7-605e8f235397/svn/gold-oukaning-wall-sconces-jzuc34-00290099-64_300.jpg");
+background-size: 315px 360px;
+padding-top: 340px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.ashish{
+/* background-color: blue; */background-image: url("https://images.hindustantimes.com/tech/img/2023/08/23/original/kcgh_1692782623800.png");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.a{
+/* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/513ugd16C6L._AC_UL320_.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: rgb(18, 1, 250);
+    font-weight: 500;
+}
+
+
+.b{
+    /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/614gbl-O98L._AC_UL320_.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+.c{
+/* background-color: blue; */background-image: url("https://th.bing.com/th/id/OIP.wn0Pi6wbBWF40noRMCr9OQHaHa?pid=ImgDet&w=152&h=152&c=7");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.d{
+/* background-color: blue; */background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/june/CE/GW/QC/PC/PC_QuadCard_Boult_0.5x._SY116_CB553870684_.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.e{
+/* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/71UJgeQD0zL._AC_SY200_.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+a{
+    text-decoration: none;
+    color: rgb(18, 1, 250);
+    font-weight: 500;
+}
+
+
+.f{
+    background-image: url("https://th.bing.com/th/id/OIP.vqcleWYC91kvJ3d9qGHiOwAAAA?pid=ImgDet&w=152&h=152&c=7");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+/* text-transform: capitalize; */
+padding-left: 10px;
+
+
+
+}
+.g{
+/* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/91nkc6fMx1L._SX522_.jpg");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.h{
+/* background-color: blue; */background-image: url("https://images.hindustantimes.com/tech/img/2023/08/23/original/kcgh_1692782623800.png");
+background-size: 315px 360px;
+padding-top: 335px;
+/* text-decoration: none; */
+text-transform: capitalize;
+padding-left: 10px;
+
+
+}
+.i{
+    /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/71iWngH44JL._AC_SY175_.jpg")   ; background-size: 315px 360px;
+    padding-top: 335px;
+    /* text-decoration: none; */
+    /* text-transform: capitalize; */
+    padding-left: 10px;
+    
+    
+    
+    }
+    a{
+        text-decoration: none;
+        color: rgb(18, 1, 250);
+        font-weight: 500;
+    }
+    
+    
+    .j{
+        /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/71bn8jpAURL._AC_SY200_.jpg");
+    background-size: 315px 360px;
+    padding-top: 335px;
+    /* text-decoration: none; */
+    /* text-transform: capitalize; */
+    padding-left: 10px;
+    
+    
+    
+    }
+    .k{
+    /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/71w3ImSm+ML._AC_SY200_.jpg");
+    background-size: 315px 360px;
+    padding-top: 335px;
+    /* text-decoration: none; */
+    text-transform: capitalize;
+    padding-left: 10px;
+    
+    
+    }
+    .l{
+    /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/71S81vgMTFL._AC_SY200_.jpg");
+    background-size: 315px 360px;
+    padding-top: 335px;
+    /* text-decoration: none; */
+    text-transform: capitalize;
+    padding-left: 10px;
+    
+    
+    }
+    .m{
+        /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/61lpIqotYPL._AC_SY175_.jpg");
+        background-size: 315px 360px;
+        padding-top: 335px;
+        /* text-decoration: none; */
+        /* text-transform: capitalize; */
+        padding-left: 10px;
+        
+        
+        
+        }
+        a{
+            text-decoration: none;
+            color: rgb(18, 1, 250);
+            font-weight: 500;
+        }
+        
+        
+        .n{
+            /* background-color: blue; */background-image: url("https://m.media-amazon.com/images/I/81GJkTi7vjL._AC_SY200_.jpg");
+        background-size: 315px 360px;
+        padding-top: 335px;
+        /* text-decoration: none; */
+        /* text-transform: capitalize; */
+        padding-left: 10px;
+        
+        
+        
+        }
+        .o{
+        /* background-color: blue; */background-image: url("https://images.thdstatic.com/productImages/e9e16ee8-86d4-4fb0-81d7-605e8f235397/svn/gold-oukaning-wall-sconces-jzuc34-00290099-64_300.jpg");
+        background-size: 315px 360px;
+        padding-top: 335px;
+        /* text-decoration: none; */
+        text-transform: capitalize;
+        padding-left: 10px;
+        
+        
+        }
+       .back{
+        width: 1351px;
+        height:290px;
+        /* background-color: aqua; */
+        background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/MA2025/GW/UBS/Feb/Shoes/Unrec/PC/285_2._CB550631676_.png");
+        background-repeat: no-repeat;
+       }
+       .side{
+        display: grid;
+        width:1300px;
+        height: 350px;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+        background-image: url("./Screenshot_9-2-2025_134855_www.amazon.in.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+
+       }
+       .side2{
+        display: grid;
+        width:1300px;
+        height: 350px;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+        background-image: url("./Screenshot_9-2-2025_135634_www.amazon.in.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+
+       }
